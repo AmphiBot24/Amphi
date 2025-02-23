@@ -1,0 +1,21 @@
+Acoustic Communications
+communication links are subject to large propagation delays
+
+
+ROV Communications
+ROVs are usually communicated with via a tethered link to the surface. If communication is lost, some underwater robotics will automatically return to the surface. Tetherless ROV are currently in development.
+
+Optical Marine Communications
+	Optical technologies for underwater communications have also been developed, typically using laser diodes or LEDs for LOS (line-of-sight) communication. Optical communication provides a much higher data rate and lower latency than acoustic communications, but range is limited. 
+
+Cable System
+1.ROV Tethers
+https://bluerobotics.com/store/cables-connectors/cables/fathom-rov-tether-by-the-meter/
+
+https://bluerov-solutions.com/produkt/fathom-rov-tether-rov-ready/
+
+https://www.amazon.in/FEDUS-Ethernet-Internet-Computer-Category/dp/B08DLWL2GH/ref=asc_df_B08DLWL2GH/?tag=googleshopdes-21&linkCode=df0&hvadid=397083633296&hvpos=&hvnetw=g&hvrand=13294084403571527803&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9148415&hvtargid=pla-939002045215&psc=1&mcid=46e393e1f5f93e5081f42c216ac6733a&ext_vrnc=hi&gclid=CjwKCAiAi6uvBhADEiwAWiyRdqGb-E-UEKRlL7ttgHHGnJ57I-Zqat-yfFI1P0XaFVj1ZB2l2VvOAhoCBEoQAvD_BwE
+
+2.Umbilical Cables
+
+Too Costly

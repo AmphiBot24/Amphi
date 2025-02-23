@@ -1,0 +1,49 @@
+Speed Control of DC Series Motor
+Speed control methods for a DC series motor can be classified as:
+
+1. Armature Control Methods
+2.Field Control Methods
+https://www.electrical4u.com/speed-control-of-dc-motor/
+
+
+cascade control
+
+Types of encoder
+1. Incremental encoder
+	Incremental encoders generate pulses as the shaft rotates or moves linearly
+2. Absolute encoder:
+	Absolute encoders don't need reference 
+
+1. Rotary Encoders
+	Optical Rotary Encoders
+	Magnetic Rotary Encoders
+
+2. Linear Encoder
+
+*Quadrature Encoder
+	(1150rs)/robokits.co.in/automation-control-cnc/encoders/rotary-quadrature-encoder-600ppr-2400cpr
+
+*Rotary Encoder
+	https://robu.in/product/incremental-optical-rotary-encoder-6002400-pulse-600-ppr/
+
+*Hall Effect Sensor
+	(360rs)https://robu.in/product/oe-37-hall-effect-two-channel-magnetic-encoder/
+
+*Photoelectric Encoder:
+	https://robu.in/product/photoelectric-speed-sensor-encoder-coded-disc-code-wheel/?gad_source=1&gclid=CjwKCAiA3JCvBhA8EiwA4kujZua6b27dtW7oOl-tPqc1D56h9djWUTP_uGfH_nDOpPbSHg-wi54v2RoCJyIQAvD_BwE
+
+*Drone Speed Controllers
+https://robu.in/product/readytosky-40a-2-4s-esc-for-drone/(40A Rating)
+https://robu.in/product/30a-bldc-esc-electronic-speed-controller/(30A Rating)
+
+*Motors with built in encoders are costly
+
+Why BLDC no Stepper
+
+BLDC high speed and torque 
+Controlled using closed loop feedback system
+Less weight
+higher efficiency
+
+The rotational speed and position of stepper motors are controlled by open-loop command pulses, which do not require feedback circuit, but they suffer from out-of-step problems. 
+Brushless DC motors require speed control for constant speed rotation, through feedback from speed sensors to control speed. Since the torque is proportional to the current, it is easy to control the torque of brushless DC motors.
