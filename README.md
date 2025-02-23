@@ -2,7 +2,13 @@
 
 ## Overview
 
-Amphi is a project that seems to involve robotics or automation, potentially focusing on servo motor control and gait generation. This repository contains various directories and files related to the project's development.
+The Amphibious Snake Bot is a modular, bio-inspired robot with 8 DOF, capable of operating on land and in water for search, inspection, and disaster monitoring. It moves using slithering, rectilinear, and sidewinding motion on land, while undulatory propulsion enables efficient swimming.
+
+Each module has a high-torque bus servo and an independent 7.4V 850mAh battery, ensuring decentralized functionality and balanced power distribution. The ESP32 camera in the head module provides real-time imaging and crack detection, while the ESP32 Servo Driver Expansion Board handles servo coordination via serial communication.
+
+Its waterproof 3D-printed body ensures durability in underwater operations, and optional wheel attachments enhance mobility on flat surfaces. Sensor integration, including a thermal camera, enables real-time video capture and environmental monitoring. 
+
+With modular scalability, adaptive locomotion, and multi-terrain capabilities, the bot is ideal for search and rescue, disaster inspection, and industrial monitoring in harsh and confined environments.
 
 ## Directory Structure
 
